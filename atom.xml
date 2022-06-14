@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Daiqing&#39;s Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-06-14T07:02:43.838Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Daiqing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Research</title>
+    <link href="http://example.com/2021/12/31/2021/"/>
+    <id>http://example.com/2021/12/31/2021/</id>
+    <published>2021-12-31T09:36:35.819Z</published>
+    <updated>2022-06-14T07:02:43.838Z</updated>
+    
+    
+    
+    
+    <category term="life" scheme="http://example.com/categories/life/"/>
+    
+    
+  </entry>
+  
+</feed>
