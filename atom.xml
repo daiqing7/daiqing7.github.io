@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Daiqing&#39;s Blog</title>
+  <title>Notes</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-14T07:02:43.838Z</updated>
+  <updated>2022-06-14T10:22:32.703Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://example.com/2021/12/31/2021/"/>
     <id>http://example.com/2021/12/31/2021/</id>
     <published>2021-12-31T09:36:35.819Z</published>
-    <updated>2022-06-14T07:02:43.838Z</updated>
+    <updated>2022-06-14T10:22:32.703Z</updated>
     
     
     
     
-    <category term="life" scheme="http://example.com/categories/life/"/>
     
+    <category term="research" scheme="http://example.com/tags/research/"/>
     
   </entry>
   
